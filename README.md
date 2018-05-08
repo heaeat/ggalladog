@@ -1,6 +1,6 @@
 # 꽐라독
 
-![main](/main.PNG)
+![main](/main.png)
 
 
 
